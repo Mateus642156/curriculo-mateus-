@@ -14,7 +14,7 @@ Busco oportunidade como **Desenvolvedor Front-end Júnior** para aplicar meus co
 
 ## 💻 HABILIDADES TÉCNICAS
 - **Front-end:** HTML • CSS • JavaScript • React  
-- **Complementares:** Node.js • Git • Windows • APIs REST  
+- **Complementares:** typescript • GitHub  • APIs REST  
 - **Metodologias:** Scrum • Desenvolvimento Ágil • Versionamento de código  
 
 ---
@@ -29,18 +29,21 @@ Busco oportunidade como **Desenvolvedor Front-end Júnior** para aplicar meus co
 ---
 
 ## 🧠 FORMAÇÃO ACADÊMICA
-**[Curso] — [Instituição]**  
-Matão – SP • *MM/AAAA – Cursando*  
-
-**[Curso Técnico ou Médio] — [Instituição]**  
-Matão – SP • *MM/AAAA – MM/AAAA*  
+Cidade: Matão - SP Curso: – Análise de desenvolvimento de dados softwares 
+[graduação] — Cruzeiro Do Sul   
+Cidade – SP • MATÃO-SP
 
 ---
 
 ## 🎓 CURSOS E CERTIFICAÇÕES
-- Desenvolvimento Front-end (HTML, CSS, JavaScript, React e Node.js) — Udemy/Alura  
-- Git e Versionamento de Código — Plataforma X  
-- Fundamentos de UI/UX Design — Plataforma Y  
+Desenvolvimento Front-end (HTML, CSS, JavaScript, React e Node.js) — Udemy
+
+Algoritmos e Lógica de
+Programação - O Curso
+COMPLETO -Udemy
+
+GitHub e Versionamento de Código — Plataforma X
+Fundamentos de UI/UX Design — Plataforma Y
 
 ---
 
