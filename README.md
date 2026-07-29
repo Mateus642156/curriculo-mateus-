@@ -54,3 +54,5 @@ Fundamentos de UI/UX Design — Plataforma Y
 ---
 
 📄 **Versão PDF disponível:** [Baixar currículo](#) *(adicione o link do PDF quando subir o arquivo)*
+
+          Atualizado em Julho de 2026 — Mateus Henrique Rodrigues de Lima
