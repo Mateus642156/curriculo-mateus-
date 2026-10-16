@@ -42,8 +42,8 @@ Algoritmos e Lógica de
 Programação - O Curso
 COMPLETO -Udemy
 
-GitHub e Versionamento de Código — Plataforma X
-Fundamentos de UI/UX Design — Plataforma Y
+GitHub e Versionamento de Código
+
 
 ---
 
